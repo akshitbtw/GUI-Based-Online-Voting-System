@@ -71,7 +71,7 @@ python main.py
 6. In the admin panel, the voting results can be checked and analyzed.
 
 ## Screenshots
-
+### Elector Interface
 ![1](https://github.com/akshitbtw/GUI-Based-Online-Voting-System/assets/83155183/7de2ab50-6658-4d79-b62e-7ec0804d72b1)
 ![2](https://github.com/akshitbtw/GUI-Based-Online-Voting-System/assets/83155183/0516ce3a-afc5-48d6-bb12-efd31c0933fc)
 ![3](https://github.com/akshitbtw/GUI-Based-Online-Voting-System/assets/83155183/99bcd87e-3167-41b0-bb05-28c35fab5a3f)
