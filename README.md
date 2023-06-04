@@ -72,4 +72,11 @@ python main.py
 
 ## Screenshots
 
-
+![1](https://github.com/akshitbtw/GUI-Based-Online-Voting-System/assets/83155183/7de2ab50-6658-4d79-b62e-7ec0804d72b1)
+![2](https://github.com/akshitbtw/GUI-Based-Online-Voting-System/assets/83155183/0516ce3a-afc5-48d6-bb12-efd31c0933fc)
+![3](https://github.com/akshitbtw/GUI-Based-Online-Voting-System/assets/83155183/99bcd87e-3167-41b0-bb05-28c35fab5a3f)
+![4](https://github.com/akshitbtw/GUI-Based-Online-Voting-System/assets/83155183/e33448dc-9967-48d2-a57f-58346c701dd1)
+![5](https://github.com/akshitbtw/GUI-Based-Online-Voting-System/assets/83155183/919ce47e-eec3-4475-a7ba-cf754d4dfb59)
+![6](https://github.com/akshitbtw/GUI-Based-Online-Voting-System/assets/83155183/50923ed8-a06d-4914-b62e-46eb43ae1330)
+![7](https://github.com/akshitbtw/GUI-Based-Online-Voting-System/assets/83155183/d0a4d449-d758-48cb-b4fe-ad9308359d69)
+![8](https://github.com/akshitbtw/GUI-Based-Online-Voting-System/assets/83155183/dab8e3be-2a54-474e-b562-9f44d9fdda46)
